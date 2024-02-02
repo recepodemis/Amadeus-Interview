@@ -1,7 +1,7 @@
 import requests
 from constants.global_constants import BACKEND_URL
 
-class Test_Amadeus:
+class Test_Api:
     def setup_method(self):
         self.response = requests.get(BACKEND_URL)
 

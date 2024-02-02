@@ -1,0 +1,6 @@
+BACKEND_URL = "https://flights-api.buraky.workers.dev/"
+FRONTEND_URL = "https://flights-app.pages.dev/"
+CITIES_PATH = "data/cities.xlsx"
+FROM_BUTTON_PATH = "/html/body/main/div[1]/div[1]/div/input"
+TO_BUTTON_PATH = "/html/body/main/div[1]/div[2]/div/input"
+LIST_BUTTON_XPATH = "/html/body/main/div[1]/div[1]/div/button"
